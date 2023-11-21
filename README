@@ -1,5 +1,5 @@
 To use this code, clone it and do the following:
 Run `npm install` to install all dependencies
 Run `npm run start` to data scrape and save to json (json file is already saved so you don't technically have to do this)
-In another terminal, run `npm server.js` and it will run locally, it will display the JSON data on http://localhost:3000/scrape-rings
+In another terminal, run `node server.js` and it will run locally, it will display the JSON data on http://localhost:3000/scrape-rings
 In another terminal, you can run `curl http://localhost:3000/scrape-rings` to GET rings array in terminal
