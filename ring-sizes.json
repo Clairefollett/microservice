@@ -1,0 +1,50 @@
+{
+  "womens": [
+    {
+      "size": 5,
+      "percentage": 8
+    },
+    {
+      "size": 6,
+      "percentage": 20
+    },
+    {
+      "size": 7,
+      "percentage": 35
+    },
+    {
+      "size": 8,
+      "percentage": 20
+    },
+    {
+      "size": 9,
+      "percentage": 12
+    },
+    {
+      "size": 10,
+      "percentage": 5
+    }
+  ],
+  "mens": [
+    {
+      "size": 9,
+      "percentage": 25
+    },
+    {
+      "size": 10,
+      "percentage": 25
+    },
+    {
+      "size": 11,
+      "percentage": 25
+    },
+    {
+      "size": 12,
+      "percentage": 15
+    },
+    {
+      "size": 13,
+      "percentage": 10
+    }
+  ]
+}
